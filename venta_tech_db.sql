@@ -1,6 +1,6 @@
 
 
--- Motor utilizado: SQL Server
+-- Motor utilizado: SQL Server1
  
 CREATE DATABASE Ventas_Tech_BD;
 
